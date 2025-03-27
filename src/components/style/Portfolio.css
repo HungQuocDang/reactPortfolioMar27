@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    margin-top: 0rem;
+    margin-bottom: 2.6rem;
+    font-size: 55px;
+  }
+  
+  .card-body .btn-deployed:hover {
+    background-color: #303336;
+    text-decoration: none;
+    color: #e7dada;
+  }
+  
